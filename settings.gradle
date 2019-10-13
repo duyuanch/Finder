@@ -1,0 +1,2 @@
+include ':app', ':appkotlin'
+rootProject.name='Finder'
